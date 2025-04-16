@@ -1,11 +1,5 @@
 <h1 align="center">Olá! Eu sou o Lucas Ventura 👋</h1>
 
-<p align="center">
-  💻 Estudante de Análise e Desenvolvimento de Sistemas <br/>
-  🚀 Apaixonado por tecnologia e em constante evolução <br/>
-  📍 Brasil
-</p>
-
 ---
 
 ### 🧠 Sobre mim
