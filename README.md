@@ -1,7 +1,5 @@
 <h1 align="center">Olá! Eu sou o Lucas Ventura 👋</h1>
 
----
-
 ### 🧠 Sobre mim
 
 - 🔭 Atualmente estudando Java, Vue.js, PHP e padrões de projeto
