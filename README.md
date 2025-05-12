@@ -39,8 +39,9 @@
 ---
 
 ### 📫 Vamos conectar!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)]([https://www.linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/lucas-ventura-99984b281/))  
-[![Portfólio]()
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-ventura-99984b281/)
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/lucas_ventura__/)
 
 ---
 
